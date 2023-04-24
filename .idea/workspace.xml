@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="805e595a-d04d-4a05-ad35-0bbedd97ea46" name="Changes" comment="commit new 3">
-      <change beforePath="$PROJECT_DIR$/commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/commit.txt" afterDir="false" />
+    <list default="true" id="805e595a-d04d-4a05-ad35-0bbedd97ea46" name="Changes" comment="feature 1">
+      <change beforePath="$PROJECT_DIR$/feature.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feature.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/feature-two" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,7 +73,7 @@
       <workItem from="1678392008558" duration="4452000" />
       <workItem from="1678693650565" duration="210000" />
       <workItem from="1682357501229" duration="361000" />
-      <workItem from="1682357870169" duration="173000" />
+      <workItem from="1682357870169" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="Added readme">
       <created>1678392040859</created>
@@ -166,28 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682358035418</updated>
     </task>
-    <task id="LOCAL-00014" summary="feature 5">
-      <created>1682359177975</created>
+    <task id="LOCAL-00014" summary="commit 3">
+      <created>1682358084626</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1682359177975</updated>
+      <updated>1682358084626</updated>
     </task>
-    <task id="LOCAL-00015" summary="commit new 1">
-      <created>1682359377283</created>
+    <task id="LOCAL-00015" summary="feature 1">
+      <created>1682358131479</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1682359377283</updated>
+      <updated>1682358131479</updated>
     </task>
-    <task id="LOCAL-00016" summary="commit new 3">
-      <created>1682359462851</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1682359462851</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +191,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature-rebase" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -208,6 +213,11 @@
         <entry key="Branch">
           <value>
             <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature-rebase" />
+                </option>
+              </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="main" />
@@ -247,9 +257,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 2" />
-    <MESSAGE value="feature 5" />
-    <MESSAGE value="commit new 1" />
-    <MESSAGE value="commit new 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit new 3" />
+    <MESSAGE value="commit 3" />
+    <MESSAGE value="feature 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature 1" />
   </component>
 </project>
