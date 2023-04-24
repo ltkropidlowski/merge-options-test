@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="805e595a-d04d-4a05-ad35-0bbedd97ea46" name="Changes" comment="commit 1">
+    <list default="true" id="805e595a-d04d-4a05-ad35-0bbedd97ea46" name="Changes" comment="commit 2">
       <change beforePath="$PROJECT_DIR$/commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +73,7 @@
       <workItem from="1678392008558" duration="4452000" />
       <workItem from="1678693650565" duration="210000" />
       <workItem from="1682357501229" duration="361000" />
-      <workItem from="1682357870169" duration="157000" />
+      <workItem from="1682357870169" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="Added readme">
       <created>1678392040859</created>
@@ -159,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682358014760</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit 2">
+      <created>1682358035418</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682358035418</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +237,7 @@
     <MESSAGE value="dcdcc" />
     <MESSAGE value="test" />
     <MESSAGE value="commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
   </component>
 </project>
