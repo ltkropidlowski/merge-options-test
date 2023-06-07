@@ -1,4 +1,1 @@
-commit new 1
-commit new 2
-commit new 3
-commit new 4
+main 1
