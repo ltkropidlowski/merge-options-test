@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="805e595a-d04d-4a05-ad35-0bbedd97ea46" name="Changes" comment="commit new 3">
-      <change beforePath="$PROJECT_DIR$/commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/commit.txt" afterDir="false" />
+    <list default="true" id="805e595a-d04d-4a05-ad35-0bbedd97ea46" name="Changes" comment="main 1">
+      <change beforePath="$PROJECT_DIR$/feature.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feature.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/feature-two" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,11 +54,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/lukaszkropidlowski/Projects/merge-options-test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/dev/merge-options-test&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -74,6 +75,7 @@
       <workItem from="1678693650565" duration="210000" />
       <workItem from="1682357501229" duration="361000" />
       <workItem from="1682357870169" duration="173000" />
+      <workItem from="1686119718013" duration="94000" />
     </task>
     <task id="LOCAL-00001" summary="Added readme">
       <created>1678392040859</created>
@@ -187,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682359462851</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="main 1">
+      <created>1686119772967</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686119772967</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +259,7 @@
     <MESSAGE value="feature 5" />
     <MESSAGE value="commit new 1" />
     <MESSAGE value="commit new 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit new 3" />
+    <MESSAGE value="main 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="main 1" />
   </component>
 </project>
