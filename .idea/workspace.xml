@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="805e595a-d04d-4a05-ad35-0bbedd97ea46" name="Changes" comment="main4">
       <change beforePath="$PROJECT_DIR$/feature.txt" beforeDir="false" afterPath="$PROJECT_DIR$/feature.txt" afterDir="false" />
+    <list default="true" id="805e595a-d04d-4a05-ad35-0bbedd97ea46" name="Changes" comment="main6">
+      <change beforePath="$PROJECT_DIR$/commit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/commit.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,6 +218,12 @@
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
       <updated>1686120544910</updated>
+    <task id="LOCAL-00020" summary="main6">
+      <created>1686120657252</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1686120657252</updated>
     </task>
     <option name="localTasksCounter" value="21" />
     <servers />
@@ -285,5 +293,7 @@
     <MESSAGE value="main3" />
     <MESSAGE value="main4" />
     <option name="LAST_COMMIT_MESSAGE" value="main4" />
+    <MESSAGE value="main6" />
+    <option name="LAST_COMMIT_MESSAGE" value="main6" />
   </component>
 </project>
